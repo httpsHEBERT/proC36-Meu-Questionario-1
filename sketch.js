@@ -6,7 +6,7 @@ var question, contestant, quiz;
 
 function preload(){
   wallpaper = loadImage("./Images/wallpaper.jpg");
-  sound = loadSound("Sounds/trilha.mp3");
+  sound = loadSound("./Sounds/trilha.mp3");
 }
 
 function setup(){
